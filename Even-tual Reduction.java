@@ -2,7 +2,7 @@
 
 // You are given a string S of length N. The task is to determine if it's possible
 // to erase the entire string by performing a specific operation multiple times.
-
+ 
 // Operation: Choose a non-empty substring of S (or the entire string) in which
 // each character occurs an even number of times, and erase this substring from S.
 
