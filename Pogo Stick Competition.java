@@ -6,7 +6,7 @@
 // Chef can choose a starting square, enter it, and start jumping on his pogo stick.
 // From each square s, Chef can only jump forward by a fixed distance K, landing on square s + K.
 // If s + K exceeds N, Chef jumps out of bounds, ending his race. Chef cannot stop jumping earlier.
-
+ 
 // Each square has a point value, denoted as A[i] for the i-th square.
 // Initially, Chef's score is 0. Each time he lands on a square, he gains or loses points equal to A[i].
 // Chef aims to maximize his total score by choosing the best starting square and jumping sequence.
